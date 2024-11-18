@@ -1,11 +1,7 @@
-### Hi there 👋, my name is Ashish
+### Hi there 👋, my Chandn Kumar Choudhary
 #### I am an android developer
 
 **My-mall** is an e-commerce android app built using java and firebase.
-
-https://play.google.com/store/apps/details?id=com.ashish.mymall
-
-https://play.google.com/store/apps/details?id=com.fitness.fitnesswar
 
 <img src="app/src/main/res/drawable/2.jpg" height="600" width="300">  <img src="app/src/main/res/drawable/3.jpg" height="600" width="300">  
 <img src="app/src/main/res/drawable/4.jpg" height="600" width="300">  <img src="app/src/main/res/drawable/5.jpg" height="600" width="300">  
